@@ -13,7 +13,7 @@ class FromMapping:
     """Class for converting from a mapping to a python object"""
 
     @staticmethod
-    def __is_correct_mapping(mapping: Mapping):
+    def __is_correct_mapping(mapping: Mapping) -> bool:
         """Check if all mapping keys are strings"""
         return all(map(lambda x: type(x) is str, mapping.keys()))
 
