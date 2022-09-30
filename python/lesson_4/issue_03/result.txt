@@ -1,0 +1,10 @@
+test_args (test_one_hot_encoder_unit.TestOneHotEncoder) ... ok
+test_case_sensetivity (test_one_hot_encoder_unit.TestOneHotEncoder) ... ok
+test_list (test_one_hot_encoder_unit.TestOneHotEncoder) ... ok
+test_str (test_one_hot_encoder_unit.TestOneHotEncoder) ... ok
+test_zero_args (test_one_hot_encoder_unit.TestOneHotEncoder) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
